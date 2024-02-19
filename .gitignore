@@ -1,0 +1,39 @@
+# Compiled Java classes
+*.class
+
+# Log files
+*.log
+
+# Compiled Gradle files
+build/
+
+# Compiled Maven files
+target/
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+bin/
+lib/
+
+# Configuration files
+*.iml
+*.ipr
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+
+# Maven target directory
+/target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
