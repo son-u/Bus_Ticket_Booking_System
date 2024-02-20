@@ -2,6 +2,9 @@
 
 Welcome to the Bus Ticket Booking System repository! This project is a web application designed to facilitate bus ticket booking operations. Users can book tickets, view booking statuses, while admins have additional privileges such as creating and deleting routes, and approving bookings.
 
+
+![NBSTC](https://github.com/son-u/Bus_Ticket_Booking_System/assets/85066238/41b8d868-6988-4d2b-b77d-621bd131de4b)
+
 ## Features
 
 - **User Authentication:** Users can sign up and log in securely to access the booking system.
@@ -35,7 +38,6 @@ Welcome to the Bus Ticket Booking System repository! This project is a web appli
 3. **Configure Database Connection:**
 
 - Go to the following path :
-
 ```bash
   Ticket_Booking_System/src/main/java/com/db/DBConnect.java
 ```
@@ -55,3 +57,18 @@ Welcome to the Bus Ticket Booking System repository! This project is a web appli
 ## Contributing
 
 Contributions to the `Bus Ticket Booking System` are welcome! If you have any ideas for improvements, feature suggestions, or bug fixes, please feel free to submit a pull request or open an issue on GitHub.
+
+![Nbstc Description](https://github.com/son-u/Bus_Ticket_Booking_System/assets/85066238/76d15146-8917-4cd7-81ba-5d9fc5fc4041)
+
+### Link to Download the whole Project :
+```bash
+  https://mega.nz/folder/X9RWTITT#IxWTvll9krtAhFIgipc8Bg
+```
+
+
+ If you find this repo helpful then don't forget to give a `start ❇️ `to this repository. :)
+
+ 
+### Contact me on telegram for any issues :
+`https://t.me/iamserious77`
+
