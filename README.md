@@ -27,7 +27,7 @@ Welcome to the Bus Ticket Booking System repository! This project is a web appli
 1.  Clone the project
 
 ```bash
-  git clone https://github.com/your-username/bus-ticket-booking-system.git
+  git clone https://github.com/son-u/Bus_Ticket_Booking_System.git
 ```
 
 2. **Setup the Database:**
